@@ -1,1 +1,0 @@
-<a href="/"><img src="/img/logo.png" alt="Third Faction" border="0"/></a><br />
