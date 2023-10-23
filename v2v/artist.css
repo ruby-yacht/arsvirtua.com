@@ -1,0 +1,653 @@
+body{ 
+	margin-top: 0px;
+ 	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+ }
+
+.background {
+	margin-left: auto;
+	margin-right: auto;
+	width: 1224px;
+	height: 6250px;
+	background-image: url(site_img/background.jpg);
+	margin-top: auto;
+}
+
+.sidebar {
+	width: 320px; 
+	height: 1052px;
+	float: left;}
+	
+.logo{
+	
+	width: 234px;
+	height: 195px;
+	margin-left: auto;
+	margin-right: auto;	
+	margin-top: 46px;
+	margin-bottom: 80px;
+}
+
+.lines{
+	background-image:url(site_img/dotted_lines.png);
+	width: 236px;
+	height: 298px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 1px;
+}
+
+.nav{
+	width: 189px;
+	height: 238px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.content {
+	width: 904px;
+	height: 2800px;
+	float: right;
+}
+
+.content_logo {
+	width: 683px;
+	height: 36px;
+	margin-left: 108px;
+	margin-right: auto;
+	margin-top: 46px;
+	margin-bottom: 19px;
+}
+	
+.banner_box{
+	height:325px;
+	width:686px;
+	float: left;
+	margin-left: 108px;
+	margin-right: 108px;
+	margin-top: 1px;
+
+}
+
+.banner_box2{
+	height:400px;
+	width:686px;
+	float: left;
+	margin-left: 108px;
+	margin-right: 108px;
+	margin-top: 1px;
+
+}
+
+.banner_box3{
+	height:434px;
+	width:686px;
+	float: left;
+	margin-left: 108px;
+	margin-right: 108px;
+	margin-top: 1px;
+
+}
+
+.banner_box4{
+	height:325px;
+	width:686px;
+	float: left;
+	margin-left: 108px;
+	margin-right: 108px;
+	margin-top: 1px;
+
+}
+
+.banner_box5{
+	height:350px;
+	width:686px;
+	float: left;
+	margin-left: 108px;
+	margin-right: 108px;
+	margin-top: 1px;
+
+}
+
+.banner_box6{
+	height:325px;
+	width:686px;
+	float: left;
+	margin-left: 108px;
+	margin-right: 108px;
+	margin-top: 1px;
+
+}
+
+
+.banner_box7{
+	height:325px;
+	width:686px;
+	float: left;
+	margin-left: 108px;
+	margin-right: 108px;
+	margin-top: 1px;
+
+}
+
+.banner_box8{
+	height:325px;
+	width:686px;
+	float: left;
+	margin-left: 108px;
+	margin-right: 108px;
+	margin-top: 1px;
+
+}
+
+.banner_box9{
+	height:325px;
+	width:686px;
+	float: left;
+	margin-left: 108px;
+	margin-right: 108px;
+	margin-top: 1px;
+
+}
+
+.banner_box10{
+	height:404px;
+	width:686px;
+	float: left;
+	margin-left: 108px;
+	margin-right: 108px;
+	margin-top: 1px;
+
+}
+
+.banner_box11{
+	height:325px;
+	width:686px;
+	float: left;
+	margin-left: 108px;
+	margin-right: 108px;
+	margin-top: 1px;
+
+}
+
+.banner_box12{
+	height:325px;
+	width:686px;
+	float: left;
+	margin-left: 108px;
+	margin-right: 108px;
+	margin-top: 1px;
+
+}
+
+.banner_box13{
+	height:325px;
+	width:686px;
+	float: left;
+	margin-left: 108px;
+	margin-right: 108px;
+	margin-top: 1px;
+
+}
+
+.banner_box14{
+	height:434px;
+	width:686px;
+	float: left;
+	margin-left: 108px;
+	margin-right: 108px;
+	margin-top: 1px;
+
+}
+
+.banner_box15{
+	height:325px;
+	width:686px;
+	float: left;
+	margin-left: 108px;
+	margin-right: 108px;
+	margin-top: 1px;
+
+}
+
+.banner_box16{
+	height:325px;
+	width:686px;
+	float: left;
+	margin-left: 108px;
+	margin-right: 108px;
+	margin-top: 1px;
+
+}
+
+	
+.banner_pic {
+	background-image: url(site_img/michael_pic.png);
+	width: 207px;
+	height: 221px;
+	float: left;
+-moz-box-shadow: 0 0 5px #888;
+	-webkit-box-shadow: 0 0 5px#888;
+	box-shadow: 0 0 5px #888;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+
+.banner_text {
+	width: 454px;
+	height: 364px;
+	font: Verdana;
+	font-size: 15px;
+	text-align:left;
+	color: #58585A;
+	float: right;
+		
+}
+
+.banner_pic2 {
+	background-image: url(site_img/thomas_pic.png);
+	width: 207px;
+	height: 221px;
+	float:left;
+	-moz-box-shadow: 0 0 5px #888;
+	-webkit-box-shadow: 0 0 5px#888;
+	box-shadow: 0 0 5px #888;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+
+.banner_text2 {
+	width: 454px;
+	height: 364px;
+	font: Verdana;
+	font-size: 15px;
+	text-align:left;
+	color: #58585A;
+	float: right;
+	
+	
+}
+
+.banner_pic3 {
+	background-image: url(site_img/john_pic.png);
+	width: 207px;
+	height: 221px;
+	float: left;
+	-moz-box-shadow: 0 0 5px #888;
+	-webkit-box-shadow: 0 0 5px#888;
+	box-shadow: 0 0 5px #888;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+
+.banner_text3 {
+	width: 454px;
+	height: 364px;
+	font: Verdana;
+	font-size: 15px;
+	text-align:left;
+	color: #58585A;
+	float: right;
+		
+}
+
+.banner_pic4 {
+	background-image: url(site_img/jenene_pic.png);
+	width: 207px;
+	height: 221px;
+	float:left;
+	-moz-box-shadow: 0 0 5px #888;
+	-webkit-box-shadow: 0 0 5px#888;
+	box-shadow: 0 0 5px #888;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+
+.banner_text4 {
+	width: 454px;
+	height: 364px;
+	font: Verdana;
+	font-size: 15px;
+	text-align:left;
+	color: #58585A;
+	float: right;
+	
+	
+}
+
+.banner_pic5 {
+	background-image: url(site_img/zhenya_pic.png);
+	width: 207px;
+	height: 221px;
+	padding-left: 1px;
+	margin-bottom: 1px;
+	float: left;
+	-moz-box-shadow: 0 0 5px #888;
+	-webkit-box-shadow: 0 0 5px#888;
+	box-shadow: 0 0 5px #888;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+
+.banner_text5 {
+	width: 454px;
+	height: 364px;
+	font: Verdana;
+	font-size: 15px;
+	text-align:left;
+	color: #58585A;
+	float: right;
+		
+}
+
+.banner_pic6 {
+	background-image: url(site_img/vera_pic.png);
+	width: 207px;
+	height: 221px;
+	float: left;
+	-moz-box-shadow: 0 0 5px #888;
+	-webkit-box-shadow: 0 0 5px#888;
+	box-shadow: 0 0 5px #888;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+
+.banner_text6 {
+	width: 454px;
+	height: 364px;
+	font: Verdana;
+	font-size: 15px;
+	text-align:left;
+	color: #58585A;
+	float: right;
+		
+}
+
+.banner_pic7 {
+	background-image: url(site_img/agata_pic.png);
+	width: 207px;
+	height: 221px;
+	float:left;
+	-moz-box-shadow: 0 0 5px #888;
+	-webkit-box-shadow: 0 0 5px#888;
+	box-shadow: 0 0 5px #888;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+
+.banner_text7 {
+	width: 454px;
+	height: 364px;
+	font: Verdana;
+	font-size: 15px;
+	text-align:left;
+	color: #58585A;
+	float: right;
+	
+	
+}
+
+.banner_pic8 {
+	background-image: url(site_img/alex_pic.png);
+	width: 207px;
+	height: 221px;
+	float: left;
+	-moz-box-shadow: 0 0 5px #888;
+	-webkit-box-shadow: 0 0 5px#888;
+	box-shadow: 0 0 5px #888;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+
+.banner_text8 {
+width: 454px;
+	height: 364px;
+	font: Verdana;
+	font-size: 15px;
+	text-align:left;
+	color: #58585A;
+	float: right;
+		
+}
+
+.banner_pic9 {
+	background-image: url(site_img/irina_pic.png);
+	width: 207px;
+	height: 221px;
+	float:left;
+	-moz-box-shadow: 0 0 5px #888;
+	-webkit-box-shadow: 0 0 5px#888;
+	box-shadow: 0 0 5px #888;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+
+.banner_text9 {
+	width: 454px;
+	height: 364px;
+	font: Verdana;
+	font-size: 15px;
+	text-align:left;
+	color: #58585A;
+	float: right;
+	
+	
+}
+
+.banner_pic10 {
+	background-image: url(site_img/nina_pic.png);
+	width: 207px;
+	height: 221px;
+	padding-left: 1px;
+	margin-bottom: 1px;
+	float: left;
+	-moz-box-shadow: 0 0 5px #888;
+	-webkit-box-shadow: 0 0 5px#888;
+	box-shadow: 0 0 5px #888;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+
+.banner_text10 {
+	width: 454px;
+	height: 364px;
+	font: Verdana;
+	font-size: 15px;
+	text-align:left;
+	color: #58585A;
+	float: right;
+		
+}
+
+.banner_pic11 {
+	background-image: url(site_img/nikita_pic.png);
+	width: 207px;
+	height: 221px;
+	float: left;
+	-moz-box-shadow: 0 0 5px #888;
+	-webkit-box-shadow: 0 0 5px#888;
+	box-shadow: 0 0 5px #888;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+
+.banner_text11 {
+width: 454px;
+	height: 364px;
+	font: Verdana;
+	font-size: 15px;
+	text-align:left;
+	color: #58585A;
+	float: right;
+		
+}
+
+.banner_pic12 {
+	background-image: url(site_img/peter_pic.png);
+	width: 207px;
+	height: 221px;
+	float:left;
+	-moz-box-shadow: 0 0 5px #888;
+	-webkit-box-shadow: 0 0 5px#888;
+	box-shadow: 0 0 5px #888;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+
+.banner_text12 {
+	width: 454px;
+	height: 364px;
+	font: Verdana;
+	font-size: 15px;
+	text-align:left;
+	color: #58585A;
+	float: right;
+	
+	
+}
+
+.banner_pic13 {
+	background-image: url(site_img/haifa_pic.png);
+	width: 207px;
+	height: 221px;
+	padding-left: 1px;
+	margin-bottom: 1px;
+	float: left;
+	-moz-box-shadow: 0 0 5px #888;
+	-webkit-box-shadow: 0 0 5px#888;
+	box-shadow: 0 0 5px #888;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+
+.banner_text13 {
+	width: 454px;
+	height: 364px;
+	font: Verdana;
+	font-size: 15px;
+	text-align:left;
+	color: #58585A;
+	float: right;
+		
+}
+
+.banner_pic14 {
+	background-image: url(site_img/minecraft_person_pic.png);
+	width: 207px;
+	height: 221px;
+	padding-left: 1px;
+	margin-bottom: 1px;
+	float: left;
+	-moz-box-shadow: 0 0 5px #888;
+	-webkit-box-shadow: 0 0 5px#888;
+	box-shadow: 0 0 5px #888;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+
+.banner_text14 {
+	width: 454px;
+	height: 364px;
+	font: Verdana;
+	font-size: 15px;
+	text-align:left;
+	color: #58585A;
+	float: right;
+		
+}
+
+.banner_pic15 {
+	background-image: url(../marek_pic.png);
+	width: 207px;
+	height: 221px;
+	padding-left: 1px;
+	margin-bottom: 1px;
+	float: left;
+	-moz-box-shadow: 0 0 5px #888;
+	-webkit-box-shadow: 0 0 5px#888;
+	box-shadow: 0 0 5px #888;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+
+.banner_text15 {
+	width: 454px;
+	height: 364px;
+	font: Verdana;
+	font-size: 15px;
+	text-align:left;
+	color: #58585A;
+	float: right;
+		
+}
+
+
+
+.banner_pic16 {
+	background-image: url(../james_pic.png);
+	width: 207px;
+	height: 221px;
+	padding-left: 1px;
+	margin-bottom: 1px;
+	float: left;
+	-moz-box-shadow: 0 0 5px #888;
+	-webkit-box-shadow: 0 0 5px#888;
+	box-shadow: 0 0 5px #888;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#000000');
+}
+
+.banner_text16 {
+	width: 454px;
+	height: 364px;
+	font: Verdana;
+	font-size: 15px;
+	text-align:left;
+	color: #58585A;
+	float: right;
+		
+}
+
+
+
+
+

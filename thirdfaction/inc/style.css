@@ -1,0 +1,57 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background:url(../img/bg1.jpg) repeat-x #9ad2e4 fixed;
+	font-family:Verdana, Geneva, sans-serif;
+	color:#ccf;
+	font-size: 14px;
+}
+img{border:0}
+
+a:link {color:#f00; text-decoration: none }
+a:visited {color:#c00; text-decoration: none}
+a:hover { color:#ff8d00; text-decoration:underline }
+h1, h2, h3{margin:0; padding:0;color:#ff8d00;}
+h1{font-size:36px;}
+
+.main {
+	margin: 20px auto;
+	width:810px;
+	padding:20px;
+	min-height:990px;
+	background:url(../img/gradient.png) repeat-x #222;
+	border-radius: 15px;
+  	-webkit-box-shadow:0 0 8px #fff;
+  	box-shadow:0 0 8px #fff;
+}
+.content {width:600px;}
+
+blockquote {
+	padding:10px;
+	margin:20px;
+}
+
+blockquote, .menu ul {
+background:#333;
+border-right:#000 1px solid;
+border-bottom: #000 1px solid;
+border-top-left-radius: 10px;
+}
+
+.menu{
+	width:200px;
+	float:right;
+}
+
+.menu ul{
+	margin:20px 0 0 10px;
+	padding:10px;
+	list-style-type:none;
+}
+.menu li{
+	margin:5px 0 0 5px;
+}
+
+.menu ul a:link, .menu ul a:visited {color:#ff8d00; text-decoration: none }
+.menu ul a:hover {border-bottom:2px solid #ff8d00;}

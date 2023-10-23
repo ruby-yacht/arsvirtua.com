@@ -1,0 +1,6 @@
+[20-Oct-2021 12:04:46 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/ncmz00zav7b3/public_html/arsvirtua/thirdfaction/related_work/index_old.php(46) : runtime-created function on line 1
+[20-Oct-2021 12:04:47 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/ncmz00zav7b3/public_html/arsvirtua/thirdfaction/related_work/index_old.php(46) : runtime-created function on line 1
+[29-Oct-2021 20:05:10 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/ncmz00zav7b3/public_html/arsvirtua/thirdfaction/related_work/index.php(1) : runtime-created function on line 1
+[14-Nov-2021 11:18:16 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/ncmz00zav7b3/public_html/arsvirtua/thirdfaction/related_work/index.php(1) : runtime-created function on line 1
+[14-Nov-2021 11:19:55 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/ncmz00zav7b3/public_html/arsvirtua/thirdfaction/related_work/index.php(1) : runtime-created function on line 1
+[19-Dec-2021 01:07:56 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/ncmz00zav7b3/public_html/arsvirtua/thirdfaction/related_work/index.php(1) : runtime-created function on line 1

@@ -1,0 +1,5 @@
+[29-Oct-2021 20:06:25 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/ncmz00zav7b3/public_html/arsvirtua/thirdfaction/dps/index.php(1) : runtime-created function on line 1
+[29-Oct-2021 20:07:35 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/ncmz00zav7b3/public_html/arsvirtua/thirdfaction/dps/press.php(1) : runtime-created function on line 1
+[19-Dec-2021 01:07:54 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/ncmz00zav7b3/public_html/arsvirtua/thirdfaction/dps/index.php(1) : runtime-created function on line 1
+[19-Dec-2021 01:07:56 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/ncmz00zav7b3/public_html/arsvirtua/thirdfaction/dps/press.php(1) : runtime-created function on line 1
+[19-Dec-2021 01:07:56 UTC] PHP Notice:  Undefined index: HTTP_USER_AGENT in /home/ncmz00zav7b3/public_html/arsvirtua/thirdfaction/dps/index.php(1) : runtime-created function on line 1

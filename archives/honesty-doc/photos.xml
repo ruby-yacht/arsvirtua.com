@@ -1,0 +1,411 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "11/17/06">
+	<sitename>honesty is our policy documentation</sitename>
+	<photographer>rubaiyat shatner</photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "honest-finals_001.jpg"
+width = "1012"
+height = "737"
+thumbpath = "honest-finals_001.jpg"
+thumbwidth = "100"
+thumbheight = "72">
+</image>
+
+
+<image
+path = "honest-finals_002.jpg"
+width = "1012"
+height = "737"
+thumbpath = "honest-finals_002.jpg"
+thumbwidth = "100"
+thumbheight = "72">
+</image>
+
+
+<image
+path = "honest-finals_003.jpg"
+width = "1012"
+height = "737"
+thumbpath = "honest-finals_003.jpg"
+thumbwidth = "100"
+thumbheight = "72">
+</image>
+
+
+<image
+path = "honest-finals_004.jpg"
+width = "1012"
+height = "737"
+thumbpath = "honest-finals_004.jpg"
+thumbwidth = "100"
+thumbheight = "72">
+</image>
+
+
+<image
+path = "honest-finals_005.jpg"
+width = "1012"
+height = "737"
+thumbpath = "honest-finals_005.jpg"
+thumbwidth = "100"
+thumbheight = "72">
+</image>
+
+
+<image
+path = "honest-finals_006.jpg"
+width = "1012"
+height = "737"
+thumbpath = "honest-finals_006.jpg"
+thumbwidth = "100"
+thumbheight = "72">
+</image>
+
+
+<image
+path = "honest-finals_007.jpg"
+width = "1012"
+height = "737"
+thumbpath = "honest-finals_007.jpg"
+thumbwidth = "100"
+thumbheight = "72">
+</image>
+
+
+<image
+path = "honest-finals_008.jpg"
+width = "1012"
+height = "737"
+thumbpath = "honest-finals_008.jpg"
+thumbwidth = "100"
+thumbheight = "72">
+</image>
+
+
+<image
+path = "honest-finals_009.jpg"
+width = "1012"
+height = "737"
+thumbpath = "honest-finals_009.jpg"
+thumbwidth = "100"
+thumbheight = "72">
+</image>
+
+
+<image
+path = "honest-finals_010.jpg"
+width = "1012"
+height = "737"
+thumbpath = "honest-finals_010.jpg"
+thumbwidth = "100"
+thumbheight = "72">
+</image>
+
+
+<image
+path = "honest-finals_011.jpg"
+width = "1012"
+height = "737"
+thumbpath = "honest-finals_011.jpg"
+thumbwidth = "100"
+thumbheight = "72">
+</image>
+
+
+<image
+path = "honest-finals_012.jpg"
+width = "1012"
+height = "737"
+thumbpath = "honest-finals_012.jpg"
+thumbwidth = "100"
+thumbheight = "72">
+</image>
+
+
+<image
+path = "honest-finals_013.jpg"
+width = "1012"
+height = "737"
+thumbpath = "honest-finals_013.jpg"
+thumbwidth = "100"
+thumbheight = "72">
+</image>
+
+
+<image
+path = "honest-finals_014.jpg"
+width = "1012"
+height = "737"
+thumbpath = "honest-finals_014.jpg"
+thumbwidth = "100"
+thumbheight = "72">
+</image>
+
+
+<image
+path = "honest-finals_015.jpg"
+width = "1012"
+height = "737"
+thumbpath = "honest-finals_015.jpg"
+thumbwidth = "100"
+thumbheight = "72">
+</image>
+
+
+<image
+path = "honest-finals_016.jpg"
+width = "1012"
+height = "737"
+thumbpath = "honest-finals_016.jpg"
+thumbwidth = "100"
+thumbheight = "72">
+</image>
+
+
+<image
+path = "honest-finals_017.jpg"
+width = "1012"
+height = "737"
+thumbpath = "honest-finals_017.jpg"
+thumbwidth = "100"
+thumbheight = "72">
+</image>
+
+
+<image
+path = "honest-finals_018.jpg"
+width = "1012"
+height = "737"
+thumbpath = "honest-finals_018.jpg"
+thumbwidth = "100"
+thumbheight = "72">
+</image>
+
+
+<image
+path = "honest-finals_019.jpg"
+width = "1012"
+height = "737"
+thumbpath = "honest-finals_019.jpg"
+thumbwidth = "100"
+thumbheight = "72">
+</image>
+
+
+<image
+path = "honest-finals_020.jpg"
+width = "1012"
+height = "737"
+thumbpath = "honest-finals_020.jpg"
+thumbwidth = "100"
+thumbheight = "72">
+</image>
+
+
+<image
+path = "honest-finals_021.jpg"
+width = "1012"
+height = "737"
+thumbpath = "honest-finals_021.jpg"
+thumbwidth = "100"
+thumbheight = "72">
+</image>
+
+
+<image
+path = "honesty_001.jpg"
+width = "1280"
+height = "773"
+thumbpath = "honesty_001.jpg"
+thumbwidth = "100"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "honesty_002.jpg"
+width = "1280"
+height = "773"
+thumbpath = "honesty_002.jpg"
+thumbwidth = "100"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "honesty_003.jpg"
+width = "1280"
+height = "773"
+thumbpath = "honesty_003.jpg"
+thumbwidth = "100"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "honesty_004.jpg"
+width = "1280"
+height = "773"
+thumbpath = "honesty_004.jpg"
+thumbwidth = "100"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "honesty_005.jpg"
+width = "1280"
+height = "773"
+thumbpath = "honesty_005.jpg"
+thumbwidth = "100"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "honesty_006.jpg"
+width = "1280"
+height = "773"
+thumbpath = "honesty_006.jpg"
+thumbwidth = "100"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "honesty_007.jpg"
+width = "1280"
+height = "773"
+thumbpath = "honesty_007.jpg"
+thumbwidth = "100"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "honesty_008.jpg"
+width = "1280"
+height = "773"
+thumbpath = "honesty_008.jpg"
+thumbwidth = "100"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "honesty_009.jpg"
+width = "1280"
+height = "773"
+thumbpath = "honesty_009.jpg"
+thumbwidth = "100"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "honesty_010.jpg"
+width = "1280"
+height = "773"
+thumbpath = "honesty_010.jpg"
+thumbwidth = "100"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "honesty_011.jpg"
+width = "1280"
+height = "773"
+thumbpath = "honesty_011.jpg"
+thumbwidth = "100"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "honesty_012.jpg"
+width = "1280"
+height = "773"
+thumbpath = "honesty_012.jpg"
+thumbwidth = "100"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "honesty_013.jpg"
+width = "1280"
+height = "773"
+thumbpath = "honesty_013.jpg"
+thumbwidth = "100"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "honesty_014.jpg"
+width = "1280"
+height = "773"
+thumbpath = "honesty_014.jpg"
+thumbwidth = "100"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "honesty_015.jpg"
+width = "1280"
+height = "773"
+thumbpath = "honesty_015.jpg"
+thumbwidth = "100"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "honesty_016.jpg"
+width = "1280"
+height = "773"
+thumbpath = "honesty_016.jpg"
+thumbwidth = "100"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "honesty_017.jpg"
+width = "1280"
+height = "773"
+thumbpath = "honesty_017.jpg"
+thumbwidth = "100"
+thumbheight = "60">
+</image>
+
+
+<image
+path = "honesty_018.jpg"
+width = "1280"
+height = "773"
+thumbpath = "honesty_018.jpg"
+thumbwidth = "100"
+thumbheight = "60">
+</image>
+
+</images>
+</gallery>

@@ -1,0 +1,18 @@
+/* 
+	CORE.CSS
+	this file works as a sort of proxy and gets other css files allowing
+	for some browser-specific filtering
+*/
+@import url(main.css);
+@import url(navigation.css);
+@import url(grids.css);
+@import url(jVal.css);
+
+/* apply fix styles to internet explorer 5.x versions */
+@media tty { /* IE 5.x Windows Mid Pass Filter */
+	i{content:"\";/*" "*/}} @import 'ie5x.css'; /*";}
+}/* */
+
+/* import stylesheet for Mac IE only \*//*/
+@import url("iemac.css");
+/**/
