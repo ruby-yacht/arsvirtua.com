@@ -1,116 +1,284 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>Ars Virtua: Projects</title>
-<link rel="STYLESHEET" type="text/css" href="../main.css" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ars Virtua Projects</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<style>
+body {
+	max-width: 980px;
+	margin: 0 auto;
+	padding: 0 15px 30px;
+	color: #555;
+}
+.navbar {
+	margin-top: 15px;
+}
+.navbar .navbar-nav {
+	margin: 0;
+}
+.navbar .navbar-nav > li {
+	display: inline-block;
+	float: none;
+}
+.page-header {
+	margin-top: 22px;
+}
+.project {
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	margin-bottom: 20px;
+	padding: 15px;
+	min-height: 390px;
+	background: #fff;
+}
+.project img {
+	width: 100%;
+	height: 150px;
+	object-fit: cover;
+	margin-bottom: 12px;
+	background: #eee;
+}
+.project h2 {
+	font-size: 20px;
+	line-height: 1.25;
+	margin: 0 0 10px;
+}
+.project p {
+	font-size: 13px;
+	line-height: 1.45;
+}
+.project-links a {
+	display: inline-block;
+	margin: 0 12px 6px 0;
+	font-size: 13px;
+}
+.project-text-only {
+	min-height: 240px;
+}
+.logo-footer {
+	margin-top: 15px;
+}
+@media (max-width: 767px) {
+	body {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.project {
+		min-height: 0;
+	}
+	.navbar .navbar-nav > li > a {
+		padding: 10px 12px;
+	}
+}
+</style>
 </head>
 
 <body>
-<div class="centerer"><div class="master">
-  <div class="nav">
-<ul>
-<li><a href="../index.html">home</a></li>
-<li><a href="../projects/index.html">projects</a></li>
-<li><a href="../exhibitions.html">exhibitions</a></li>
-<li><a href="../about.html">about</a></li>
-<li><a href="../archive.html">archive</a></li>
-</ul>
+<div class="container-fluid">
+<nav class="navbar navbar-default">
+	<ul class="nav navbar-nav">
+		<li><a href="../index.html">home</a></li>
+		<li class="active"><a href="index.html">projects</a></li>
+		<li><a href="../v2v/index.html">v2v</a></li>
+		<li><a href="../residence.html">avair</a></li>
+		<li><a href="../about.html">about</a></li>
+		<li><a href="../ars-virtua-archive.html">archive</a></li>
+	</ul>
+</nav>
+
+<div class="page-header">
+	<img src="../images/projbanner.jpg" alt="Ars Virtua projects" class="img-responsive">
+	<h1>Projects</h1>
+	<p>Project entry points and surviving documentation from the Ars Virtua repository.</p>
 </div>
 
-<div class="spacer_gray"></div>
+<div class="row">
+	<div class="col-sm-6 col-md-4">
+		<section class="project">
+			<a href="../v2v/index.html"><img src="../images/v2v-screen.png" alt="V2V"></a>
+			<h2><a href="../v2v/index.html">V2V: Valley to Valley</a></h2>
+			<p>A research and exhibition project linking Silicon Valley and the Ural Industrial Biennial.</p>
+			<p class="project-links">
+				<a href="../v2v/silicon_valley.html">Silicon Valley</a>
+				<a href="../v2v/titanium_valley.html">Titanium Valley</a>
+				<a href="../v2v/innoprom.html">Innoprom</a>
+				<a href="../v2v/artist.html">Artists</a>
+			</p>
+		</section>
+	</div>
 
-<div class="cwide">
-<img src="../images/projbanner.jpg" alt="ars virtua projects" width="624" height="182" />
+	<div class="col-sm-6 col-md-4">
+		<section class="project">
+			<a href="../residence.html"><img src="../yagiz.png" alt="AVAIR"></a>
+			<h2><a href="../residence.html">AVAIR</a></h2>
+			<p>The Ars Virtua Artist-in-Residence program for artists working in synthetic worlds.</p>
+			<p class="project-links">
+				<a href="../residence.html">Current page</a>
+				<a href="../residence-call.html">Residency call</a>
+			</p>
+		</section>
+	</div>
+
+	<div class="col-sm-6 col-md-4">
+		<section class="project">
+			<a href="../borders/index.html"><img src="../borders/game/game1sm.jpg" alt="Borders, Boundaries and Liminal Spaces"></a>
+			<h2><a href="../borders/index.html">Borders, Boundaries &amp; Liminal Spaces</a></h2>
+			<p>A conference and project archive around synthetic and terrestrial liminal spaces.</p>
+			<p class="project-links">
+				<a href="../borders/program.html">Program</a>
+				<a href="../borders/announcement.html">Announcement</a>
+				<a href="../borders/biq.html">Body in Quotes</a>
+				<a href="../borders/oob.html">Out of Body</a>
+				<a href="../borders/game.html">Game the System</a>
+			</p>
+		</section>
+	</div>
+
+	<div class="col-sm-6 col-md-4">
+		<section class="project">
+			<a href="../thirdfaction/index4.html"><img src="../thirdfaction/img/banner.jpg" alt="The Third Faction"></a>
+			<h2><a href="../thirdfaction/index4.html">The Third Faction and /hug</a></h2>
+			<p>World of Warcraft projects, research, recordings, and gallery documentation.</p>
+			<p class="project-links">
+				<a href="../thirdfaction/index2.html">What is Third Faction?</a>
+				<a href="../thirdfaction/index3.html">/hug</a>
+				<a href="../thirdfaction/fishin/index.html">Fishing Gallery</a>
+				<a href="../thirdfaction/meetingrecordings.html">Recordings</a>
+				<a href="../thirdfaction/gallerymodels.html">Gallery Models</a>
+			</p>
+		</section>
+	</div>
+
+	<div class="col-sm-6 col-md-4">
+		<section class="project">
+			<a href="../guild/index.html"><img src="../images/guildbanner.jpg" alt="Ars Virtua Guild"></a>
+			<h2><a href="../guild/index.html">Ars Virtua Guild</a></h2>
+			<p>Guild projects and community activity reaching into the realm of Warcraft.</p>
+			<p class="project-links">
+				<a href="../guild/index.html">Guild page</a>
+				<a href="not_a_hero/index.html">Not a Hero</a>
+			</p>
+		</section>
+	</div>
+
+	<div class="col-sm-6 col-md-4">
+		<section class="project">
+			<a href="not_a_hero/index.html"><img src="not_a_hero/images/thumb/id_lore.jpg" alt="Not a Hero"></a>
+			<h2><a href="not_a_hero/index.html">Not a Hero</a></h2>
+			<p>A roleplaying experiment following Dave, a banal fantasy character inside World of Warcraft.</p>
+			<p class="project-links">
+				<a href="not_a_hero/index.html">Overview</a>
+				<a href="not_a_hero/log1.html">Chatlog Day 1</a>
+			</p>
+		</section>
+	</div>
+
+	<div class="col-sm-6 col-md-4">
+		<section class="project">
+			<a href="tidy/index.html"><img src="tidy/images/thumb/tidy1.jpg" alt="Looks Very Tidy"></a>
+			<h2><a href="tidy/index.html">Looks Very Tidy</a></h2>
+			<p>A Second Life vacuuming performance and 3D-printed object project by John and James.</p>
+			<p class="project-links">
+				<a href="tidy/index.html">Overview</a>
+				<a href="tidy/images/jo-rub-vac.jpg">Documentation image</a>
+			</p>
+		</section>
+	</div>
+
+	<div class="col-sm-6 col-md-4">
+		<section class="project">
+			<a href="tribute/index.html"><img src="tribute/images/thumbs/tribute6.jpg" alt="Tribute to Jean Baudrillard"></a>
+			<h2><a href="tribute/index.html">Tribute to Jean Baudrillard</a></h2>
+			<p>A trans-instance memorial event held in World of Warcraft and telecast into Second Life.</p>
+			<p class="project-links">
+				<a href="tribute/index.html">Overview</a>
+				<a href="tribute/baudrillard.mov">Video</a>
+				<a href="../wow/baudrillard-wake.html">Wake page</a>
+			</p>
+		</section>
+	</div>
+
+	<div class="col-sm-6 col-md-4">
+		<section class="project">
+			<a href="../lookart/index.html"><img src="../lookart/look-art-300x146.png" alt="look art"></a>
+			<h2><a href="../lookart/index.html">look art</a></h2>
+			<p>A text-environment project exploring MUDs, native art, and social immersion.</p>
+			<p class="project-links">
+				<a href="../lookart/connect.html">Connect</a>
+				<a href="../lookart/artists.html">Artists</a>
+				<a href="../lookart/telnet-instructions.html">Telnet</a>
+				<a href="../lookart/atlantis-instructions.html">Atlantis</a>
+			</p>
+		</section>
+	</div>
+
+	<div class="col-sm-6 col-md-4">
+		<section class="project">
+			<a href="../upgrade/index.html"><img src="../upgrade/img/upgrade_header.gif" alt="Upgrade! Second Life"></a>
+			<h2><a href="../upgrade/index.html">Upgrade! Second Life</a></h2>
+			<p>A bi-monthly gathering of new media artists and curators in Second Life.</p>
+			<p class="project-links">
+				<a href="../upgrade/about.html">About</a>
+				<a href="../upgrade/date-artist.html">Artist page</a>
+				<a href="../upgrade/archive.html">Archive</a>
+			</p>
+		</section>
+	</div>
+
+	<div class="col-sm-6 col-md-4">
+		<section class="project">
+			<a href="../honesty/index.html"><img src="../gallery_files/honesty.jpg" alt="honesty is our policy"></a>
+			<h2><a href="../honesty/index.html">honesty is our policy</a></h2>
+			<p>A Second Life exhibition and documentation archive around identity, trust, and networked space.</p>
+			<p class="project-links">
+				<a href="../honesty/index.html">Exhibition</a>
+				<a href="../archives/honesty-doc/index.htm">Documentation</a>
+			</p>
+		</section>
+	</div>
+
+	<div class="col-sm-6 col-md-4">
+		<section class="project">
+			<a href="../slli/blender-data.html"><img src="../gallery_files/slli2.jpg" alt="Second Life Landscape Initiative"></a>
+			<h2><a href="../slli/blender-data.html">Second Life Landscape Initiative</a></h2>
+			<p>Landscape data and Blender assets from synthetic-world research.</p>
+			<p class="project-links">
+				<a href="../slli/blender-data.html">Blender data</a>
+				<a href="../slli/blender/all-show-sims-blend.zip.gz">Archive download</a>
+			</p>
+		</section>
+	</div>
 </div>
 
-<div class="cwide"><br />
+<div class="row">
+	<div class="col-sm-6">
+		<section class="project project-text-only">
+			<h2><a href="opensim/index.html">OpenSim Resources</a></h2>
+			<p>Reference links for OpenSimulator, realXtend, grids, and OpenSim communication channels.</p>
+			<p class="project-links">
+				<a href="opensim/index.html">Open resources</a>
+			</p>
+		</section>
+	</div>
 
-<h2><a href="http://thirdfaction.org" target="_blank">/hug</a></h2>
-<br />
-<table cellpadding="0" cellspacing="0" border="0"><tr><td valign="top">
-"/hug" [ or slashhug] is a Third Faction project which seeks to establish a non governmental aid organization in World of Warcraft. This exhibit is a mixed reality installation that demonstrates the work of the /hug collective and is inspired in part by the Red Cross. This installation encourages viewer interaction in carrying out Non Governmental Organization of Azeroth missions via hands-on participation
-</td>
-<td width="10"></td>
-<td valign="top">
-<a href="http://thirdfaction.org" target="_blank"><img src="../images/hug.jpg" alt="slash hug" hspace="10" border="0" /></a>
-</td></tr></table>
-<br />
-<a href="http://thirdfaction.org" target="_blank">more</a>
-<div class='spacer_line'></div>
-
-
-<h2><a href="../borders">Borders, Boundaries &amp; Liminal Spaces</a></h2>
-<br />
-<table cellpadding="0" cellspacing="0" border="0"><tr><td valign="top">
-The Ars Virtua Conference: "Borders, Boundaries &amp; Liminal Spaces" was originally conceived to be an extension of our concept of the new media center. It also seemed logical to have a conference about liminal spaces inside of one. Truly, the conference afforded us an opportunity to interrogate the space more thoroughly. Aside from the specifics of the topics covered (remains, the body from within and without, present and future, and the manipulation of the system) the conference was particularly enlightening with respect to the engine of Second Life and communication within that medium.
-</td>
-<td width="10"></td>
-<td valign="top">
-<a href="../borders"><img src="../borders/game/game1sm.jpg" alt="game the system" width="264" height="160" hspace="10" border="0" /></a></td>
-</tr></table>
-<br />
-<a href="../borders">more</a>
-<div class='spacer_line'></div>
-
-
-<h2><a href="../projects/not_a_hero">Not a Hero (in the traditional sense)</a></h2>
-<br />
-<table cellpadding="0" cellspacing="0" border="0"><tr><td valign="top">
-Not a Hero is an experiment in roleplaying, carried out by John Bruneau. Dave, is the character John become.<br />
-<br />
-"For me, Dave embodies the fantasy of the banal. He lives in a world of paperwork and office politics not demon slaying and magic. I perceive Dave as the fantasy character's fantasy. He doesn't have to worry about warring factions or situations of life and death. Like many Americans, his life is simple and his big problems are trivial in the grand scheme of things. Dave isn't unaware of the violence and war going on in the world in which he lives, it simply doesn't directly affect him. To Dave the undead are mythical but deadlines are all to real."
-</td>
-<td width="10"></td>
-<td valign="top">
-<a href="../projects/not_a_hero"><img src="not_a_hero/images/thumb/id_lore.jpg" alt="dave" width="264" height="212" hspace="10" border="0" /></a>
-</td></tr></table>
-<br />
-<a href="../projects/not_a_hero">more</a>
-<div class='spacer_line'></div>
-
-
-<h2><a href="../projects/tidy">Looks Very Tidy</a></h2>
-<br />
-<table cellpadding="0" cellspacing="0" border="0"><tr><td valign="top">
-John and James have created a piece entitled "looks very tidy." The work originates in the 3D virtual engine of Second Life. Vacuum cleaners were created in the environment and rendered into real space with a 3D printer,  and a movie of the pair vacuuming the Ars Virtua gallery.<br />
-<br />
-Vacuuming is a fundamentally mundane process that relies on the nature of terrestrial reality (dirt & dust). When transposed into a game world it takes on an absurd quality and the drudgery becomes purely performative. Furthermore since the vacuum cleaner if functionally useless it becomes an object of pure fetish or "sculpture."
-</td>
-<td width="10"></td>
-<td valign="top">
-<a href="../projects/tidy"><img src="tidy/images/thumb/tidy1.jpg" alt="Looks Very Tidy" width="264" height="198" hspace="10" border="0" /></a>
-</td></tr></table>
-<br />
-<a href="../projects/tidy">more</a>
-<div class='spacer_line'></div>
-
-<h2><a href="../projects/tribute">Tribute to Jean Baudrillard</a></h2>
-<br />
-<table cellpadding="0" cellspacing="0" border="0"><tr><td valign="top">
-On March 17, 2007 at 4 pm SLT Ars Virtua held a small wake for the passing of Jean Baudrillard. The event was held in World of Warcraft and telecast into Second Life in our first trans-instance event. As a tribute to Jean Baudrillard's life and work I felt that it was appropriate to use the world of simulation to deliver my message through the highly popular simulation gaming environment found in World of Warcraft. As part of the continued simulation which we call artmaking this tribute can be seen as an initial foray into a synthetic world for a purpose in which it was not necessarily built.
-</td>
-<td width="10"></td>
-<td valign="top">
-<a href="../projects/tribute"><img src="../projects/tribute/images/thumbs/tribute6.jpg" alt="Tribute to Jean Baudrillard" width="264" height="159" hspace="10" border="0" /></a></td>
-</tr></table>
-<br />
-<a href="../projects/tribute/">more</a>
-<div class='spacer_line'></div>
-
-<br />
-<br />
-
-<img src="../images/logo.png" alt="ars virtua" width="200" height="27" />
+	<div class="col-sm-6">
+		<section class="project project-text-only">
+			<h2><a href="../ars-virtua-archive.html">Early Exhibits Archive</a></h2>
+			<p>Repository archive material for early Ars Virtua exhibits, programs, and project history.</p>
+			<p class="project-links">
+				<a href="../ars-virtua-archive.html">Archive overview</a>
+				<a href="../exhibitions.html">Exhibitions</a>
+			</p>
+		</section>
+	</div>
 </div>
-<div class="footer">
-<ul>
-<li class="first"><a href="../index.html">home</a></li>
-<li><a href="../projects/index.html">projects</a></li>
-<li><a href="../exhibitions.html">exhibitions</a></li>
-<li><a href="../about.html">about</a></li>
-<li><a href="../archive.html">archive</a></li>
-</ul>
+
+<div class="logo-footer">
+	<img src="../images/logo.png" alt="Ars Virtua" width="200" height="27">
 </div>
 </div>
 </body>
