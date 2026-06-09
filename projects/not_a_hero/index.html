@@ -3,53 +3,75 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Not a Hero</title>
+<title>Not a Hero | Ars Virtua Projects</title>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-<style>
-body {
-	max-width: 900px;
-	margin: 0 auto;
-	padding: 20px 15px 35px;
-	color: #555;
-}
-.gallery img {
-	margin-bottom: 15px;
-	width: 100%;
-}
-.navbar .navbar-nav {
-	margin: 0;
-}
-.navbar .navbar-nav > li {
-	display: inline-block;
-	float: none;
-}
-@media (max-width: 767px) {
-	.navbar .navbar-nav > li > a {
-		padding: 10px 12px;
-	}
-}
-</style>
+<link href="../../css/site.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
 </head>
+
 <body>
-<nav class="navbar navbar-expand-sm navbar-light bg-light">
-	<ul class="navbar-nav flex-row flex-wrap">
-		<li class="nav-item"><a class="nav-link" href="../../index.html">home</a></li>
-		<li class="nav-item"><a class="nav-link" href="../index.html">projects</a></li>
-		<li class="nav-item"><a class="nav-link" href="../../about.html">about</a></li>
-		<li class="nav-item"><a class="nav-link" href="../../ars-virtua-archive.html">archive</a></li>
-	</ul>
-</nav>
-
-<h1>Not a Hero</h1>
-<p>Not a Hero is an experiment in roleplaying, carried out by John Bruneau. Dave is the character John became.</p>
-<p>For Dave, the fantasy is banal. He lives in a world of paperwork and office politics, not demon slaying and magic. His search for ordinary needs inside a fantasy world frames the project.</p>
-
-<p><a href="log1.html">Read Chatlog Day 1</a></p>
-
-<div class="row gallery">
-	<div class="col-sm-4"><a href="images/id_lore.jpg"><img src="images/thumb/id_lore.jpg" alt="Not a Hero documentation" class="img-fluid"></a></div>
-	<div class="col-sm-4"><a href="images/meeting1.png"><img src="images/thumb/meeting1.jpg" alt="Meeting documentation" class="img-fluid"></a></div>
-	<div class="col-sm-4"><a href="images/hotel.png"><img src="images/thumb/hotel.jpg" alt="Hotel documentation" class="img-fluid"></a></div>
+<div class="site-shell px-3 px-md-4">
+	<nav class="navbar navbar-expand-sm navbar-light bg-light site-nav">
+		<div class="container-fluid">
+			<ul class="navbar-nav flex-row flex-wrap">
+				<li class="nav-item"><a class="nav-link" href="../../index.html">home</a></li>
+				<li class="nav-item"><a class="nav-link active" aria-current="page" href="../index.html">projects</a></li>
+				<li class="nav-item"><a class="nav-link" href="../../about.html">about</a></li>
+				<li class="nav-item"><a class="nav-link" href="../../ars-virtua-archive.html">archive</a></li>
+			</ul>
+		</div>
+	</nav>
 </div>
+
+<header class="page-hero">
+	<div class="site-shell">
+		<div class="row g-0 align-items-stretch">
+			<div class="col-lg-7 p-4 p-md-5">
+				<div class="eyebrow">Project</div>
+				<h1>Not a Hero.</h1>
+				<p class="fs-5 mb-0">An experiment in roleplaying, carried out by John Bruneau. Dave is the character John became.</p>
+				<div class="meta-strip" aria-label="Not a Hero links">
+					<a href="../index.html">All projects</a>
+					<a href="log1.html">Chatlog Day 1</a>
+				</div>
+			</div>
+			<div class="col-lg-5 hero-media">
+				<img src="images/thumb/id_lore.jpg" alt="Not a Hero documentation" class="img-fluid">
+			</div>
+		</div>
+	</div>
+</header>
+
+<main>
+	<section class="content-band">
+		<div class="site-shell px-3 px-md-4 py-5">
+			<div class="row g-4 g-lg-5">
+				<div class="col-lg-4">
+					<div class="section-kicker">Roleplay</div>
+					<h2 class="section-title">Banal fantasy inside World of Warcraft.</h2>
+				</div>
+				<div class="col-lg-8">
+					<p class="lead-statement">For Dave, the fantasy is banal. He lives in a world of paperwork and office politics, not demon slaying and magic.</p>
+					<p>His search for ordinary needs inside a fantasy world frames the project.</p>
+					<div class="cta-row">
+						<a class="cta-link" href="log1.html">Read Chatlog Day 1</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<div class="site-shell px-3 px-md-4 py-5">
+			<div class="section-kicker">Documentation</div>
+			<h2 class="section-title">Project images.</h2>
+			<div class="row gallery-grid">
+				<div class="col-sm-4"><a class="gallery-link" href="images/id_lore.jpg"><img src="images/thumb/id_lore.jpg" alt="Not a Hero documentation" class="img-fluid"></a></div>
+				<div class="col-sm-4"><a class="gallery-link" href="images/meeting1.png"><img src="images/thumb/meeting1.jpg" alt="Meeting documentation" class="img-fluid"></a></div>
+				<div class="col-sm-4"><a class="gallery-link" href="images/hotel.png"><img src="images/thumb/hotel.jpg" alt="Hotel documentation" class="img-fluid"></a></div>
+			</div>
+		</div>
+	</section>
+</main>
 </body>
 </html>
